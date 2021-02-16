@@ -1,0 +1,24 @@
+{
+  "name": "random_word4random_music",
+  "version": "1.0.0",
+  "description": "Post a random music, searched by a random word, using public APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarineGuyodo/random_word4random_music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarineGuyodo/random_word4random_music/issues"
+  },
+  "homepage": "https://github.com/MarineGuyodo/random_word4random_music#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
